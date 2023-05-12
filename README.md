@@ -1,1 +1,0 @@
-# biost561shoppinglist
