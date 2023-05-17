@@ -11,3 +11,4 @@ Produce List
 
 Freezer List
 - ice cream (vanilla)
+- Ben & Jerry's Strawberry Cheesecake Ice Cream
