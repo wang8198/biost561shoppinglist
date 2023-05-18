@@ -11,6 +11,8 @@ Meals to make: apple pie, others...
 - snail powder
 - everything bagels
 - Philadelphia cream cheese (since 1872)
+- Driscoll's sweetest batch fresh blackberries
+- Driscoll's sweetest batch fresh blueberries
 
 **Produce List**
 - McIntosh red apples
