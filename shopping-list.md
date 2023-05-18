@@ -11,15 +11,16 @@ Meals to make: apple pie, others...
 - snail powder
 - everything bagels
 - Philadelphia cream cheese (since 1872)
-- Driscoll's sweetest batch fresh blackberries
-- Driscoll's sweetest batch fresh blueberries
 
 **Produce List**
 - McIntosh red apples
+- Driscoll's sweetest batch fresh blackberries
+- Driscoll's sweetest batch fresh blueberries
+- strawberries
 
 **Freezer List**
 - ice cream (vanilla)
-- Ben & Jerry's Strawberry Cheesecake Ice Cream
+- Ben & Jerry's Strawberry Cheesecake Ice Cream x2
 
 Notes: 
 - Need to get a head count to assess quantities
