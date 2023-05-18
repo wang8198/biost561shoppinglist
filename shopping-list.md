@@ -8,6 +8,7 @@ Meals to make: apple pie, others...
 - sugar
 - butter 
 - eggs
+- snail powder
 
 
 **Produce List**
