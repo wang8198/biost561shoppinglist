@@ -7,12 +7,13 @@ Meals to make: apple pie, others...
 - baking soda
 - sugar
 - butter 
-- eggs
+- Grade AA eggs
 - snail powder
-
+- everything bagels
+- Philadelphia cream cheese (since 1872)
 
 **Produce List**
-- apples
+- McIntosh red apples
 
 **Freezer List**
 - ice cream (vanilla)
