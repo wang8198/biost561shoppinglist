@@ -28,7 +28,7 @@ Meals to make: apple pie, summer roll, others...
 - peanut sauce
 
 **Freezer List**
-- ice cream (vanilla)
+- ice cream (vanilla, Butter Pecan, chocolate)
 - Ben & Jerry's Strawberry Cheesecake Ice Cream x2
 - Trader Joes' Green Tea Mochi
 
