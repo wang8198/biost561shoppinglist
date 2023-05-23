@@ -38,11 +38,6 @@ Meals to make: apple pie, summer roll, others...
 - Jasmine Green Milk Tea
 - Hot Chocolate
 
-**Fruit List**
-- Strawberry
-- Blueberry
-- Mango
-
 **Allergy List**
 - Green Onions
 
