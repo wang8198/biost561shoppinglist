@@ -36,6 +36,7 @@ Meals to make: apple pie, summer roll, others...
 - Green Tea
 - Asahi Calpico
 - Jasmine Green Milk Tea
+- Hot Chocolate
 
 **Fruit List**
 - Strawberry
