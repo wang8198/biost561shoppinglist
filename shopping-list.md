@@ -35,6 +35,7 @@ Meals to make: apple pie, summer roll, others...
 **Drink List**
 - Green Tea
 - Asahi Calpico
+- Jasmine Green Milk Tea
 
 **Allergy List**
 - Green Onions
