@@ -37,8 +37,15 @@ Meals to make: apple pie, summer roll, others...
 - Asahi Calpico
 - Jasmine Green Milk Tea
 
+**Fruit List**
+- Strawberry
+- Blueberry
+- Mango
+
 **Allergy List**
 - Green Onions
+
+
 
 Notes:
 - Need to get a head count to assess quantities
